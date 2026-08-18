@@ -1,6 +1,6 @@
 # Portada
 
-- **Nombre**: David Abril
+- **Nombre**: David Alejandro Abril Pérez
 - **Curso**: Patrones de Diseño de Software
 - **Unidad**: Unidad 1
 - **Actividad**: Post-contenido — Refactorización SOLID y análisis de patrones GoF en Spring
